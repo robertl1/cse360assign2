@@ -1,9 +1,5 @@
 package cse360assign2;
-/*
- * https://github.com/robertl1/cse360assign2/blob/master/CSE360/src/cse360assign2/AddingMachine.java
- * User: robertl1
- * Pass: Gghhjjkkll1
- */
+
 public class AddingMachine {
 	
 	/**
